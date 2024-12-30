@@ -5,7 +5,9 @@ Here's the summary in English for your GitHub project README:
 ## Project: Speech-to-Text and Content Summarization with Language Models  
 
 ### Overview  
-This project implements a comprehensive system to convert audio recordings into text, summarize content, and provide an intuitive user interface. It is designed for students and educators who want to maximize the value of their lecture recordings.  
+This project implements a comprehensive system to convert audio recordings into text, summarize content, and provide an intuitive user interface. It is designed for students and educators who want to maximize the value of their lecture recordings. 
+
+**NOTE:** To use the code you have to insert your own api and project id os the IBM Watson.AI
 
 ### Features  
 1. **Text Generation with LLMs**:  
